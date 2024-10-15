@@ -144,7 +144,7 @@ function Home() {
 
                 <div className="flex flex-col items-center">
                   <img src={bg4} alt="Telefon" className="h-20 w-20 mb-2" />
-                  <h5 className="text-center">12 34 56 78</h5>
+                  <h5 className="text-center">12 34 56 78 </h5>
                 </div>
 
                 <div className="flex flex-col items-center">
