@@ -148,12 +148,8 @@ function Home() {
                 </div>
 
                 <div className="flex flex-col items-center">
-                  <a href="mailto:Almi0098@edu.sde.dk" className="transition-transform duration-300 hover:scale-110">
                     <img src={bg5} alt="Mail" className="h-20 w-20 mb-2" />
-                  </a>
-                  <a href="mailto:Almi0098@edu.sde.dk">
                     <h5 className="text-center">Mail@gmail.com</h5>
-                  </a>
                 </div>
               </div>
             </div>
